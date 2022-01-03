@@ -48,7 +48,7 @@ Para las fuetes de voltaje hacemos un circuto cerrado es decir eliminamos esa fu
 
 Para esto debemos remplazar primero la de 20 vol y despues remplazamos la segunda fuente de 12 vol y asi al final de los resultados realizamos una suma algebraica para obtener la intensidad que sircula por esa parte del circuito.
 
-Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley de ohm y mas.
+Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley de ohm, circuitos serie paralelo y mas.
 
 ![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/6272e6211d4eee6435ceedde3cd225115f612a47/Info%204/Imagen2.44.png)
 
