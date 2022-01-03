@@ -37,16 +37,20 @@ Paso 3. Tomar la siguiente fuente que haya en el circuito y repetir los pasos 1 
 
 Paso 4. Sumar algebraicamente las corrientes producidas por cada fuente individual para encontrar la corriente real en una rama dada. (Si las corrientes están en la misma dirección, se suman. Si están en direcciones opuestas, se restan y la dirección de la corriente resultante será la misma que la presentada por la cantidad más grande de las cantidades originales.) Una vez determinada la corriente, ya se puede calcular el voltaje mediante la ley de Ohm.
 
-![](lab_3/MAPA_LAB_3.png)
+![](Info 4/Imagen1.44.jpg)
 
 
 3) Explicacion de procedimiento
 
-Primero plasmamos en el simulador el ejercicio propueto en la guia. De esta maner analizamos lo pedido y comenzamos a resolver. 
+Primero plasmamos en el simulador el ejercicio propueto en la guia. De esta maner analizamos lo pedido y comenzamos a resolver.
+
 Para las fuetes de voltaje hacemos un circuto cerrado es decir eliminamos esa fuente.
+
 Para esto debemos remplazar primero la de 20 vol y despues remplazamos la segunda fuente de 12 vol y asi al final de los resultados realizamos una suma algebraica para obtener la intensidad que sircula por esa parte del circuito.
 
-![](lab_3/Analisis_circuito.jpg)
+Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley de ohm y mas.
+
+![](Info 4/Imagen2.44.jpg)
 
 
 Cálculos:
