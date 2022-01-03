@@ -37,7 +37,7 @@ Paso 3. Tomar la siguiente fuente que haya en el circuito y repetir los pasos 1 
 
 Paso 4. Sumar algebraicamente las corrientes producidas por cada fuente individual para encontrar la corriente real en una rama dada. (Si las corrientes están en la misma dirección, se suman. Si están en direcciones opuestas, se restan y la dirección de la corriente resultante será la misma que la presentada por la cantidad más grande de las cantidades originales.) Una vez determinada la corriente, ya se puede calcular el voltaje mediante la ley de Ohm.
 
-![](Info 4/Imagen1.44.jpg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/06f686ae463d21a4ba6b2a7a2bc710f66daaa8bf/Info%204/Imagen1.44.jpg)
 
 
 3) Explicacion de procedimiento
