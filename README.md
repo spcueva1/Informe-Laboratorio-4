@@ -40,7 +40,7 @@ Paso 4. Sumar algebraicamente las corrientes producidas por cada fuente individu
 ![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/06f686ae463d21a4ba6b2a7a2bc710f66daaa8bf/Info%204/Imagen1.44.jpg)
 
 
-3) Explicacion de procedimiento
+# 3) Explicacion de procedimiento
 
 Primero plasmamos en el simulador el ejercicio propueto en la guia. De esta maner analizamos lo pedido y comenzamos a resolver.
 
@@ -50,26 +50,26 @@ Para esto debemos remplazar primero la de 20 vol y despues remplazamos la segund
 
 Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley de ohm y mas.
 
-![](Info 4/Imagen2.44.jpg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/6272e6211d4eee6435ceedde3cd225115f612a47/Info%204/Imagen2.44.png)
 
 
-Cálculos:
+ Cálculos:
 
 
 
 ![](lab_3/voltaje.jpeg)
 
 
-Intensidad:
 
 ![](lab_3/intensida.jpeg)
+
 
 Simulacion en Tinkercard:
 
 ![](lab_3/tinker_volta.jpeg)
 
 
-4) Respuesta a interrogantes y cálculo de error.
+# 4) Respuesta a interrogantes y cálculo de error.
 
 Resultados:
 
@@ -80,12 +80,12 @@ Se logro comprabar que los resutlados del  simulado es igual a los valores que e
 
 El calculo de error, si se lo evalua, este tendra un resultado de cero ya que corresponde a los valores exactos, tanto medidos, simulados y calculados.
 
-5) Video
+# 5) Video
 
 https://youtu.be/BDATG5Zll0w
 
 
-6) Conclusiones.
+# 6) Conclusiones.
 
 -
 
@@ -94,7 +94,7 @@ https://youtu.be/BDATG5Zll0w
 -
 
 
-7) Bibliografia
+# 7) Bibliografia
 
 - M. (2021b, abril 2). Teorema de superposición. MiElectrónicaFácil.com. Recuperado 27 de diciembre de 2021, de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-superposición/#pasos-del-teorema-de-superposición.
 
