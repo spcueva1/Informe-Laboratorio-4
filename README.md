@@ -54,6 +54,39 @@ Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley d
 
 
  Cálculos:
+ 
+Usando la fuente de 20v, es decir remplazando por un circuito cerrado a mi funete de voltaje de 12v.
+
+Req1=1/(1/0,82+1/2,2)=0,597kΩ
+
+RT=Req2=1+0,597=1,597Ω
+
+It=20/1,597=12,523mA
+
+Divisor de corriente.
+
+Ix=(2,2/(2,2+0,82))*12,523= 9,12mA
+
+VA=9,122*0,82=7,48 V
+
+Usando la fuente de 12v, es decir remplazando por un circuito cerrado a mi funete de voltaje de 20v.
+
+Req1=1/(1/1k+1/2,2k)=687,5Ω
+
+Req2=820+687,5=1507,5Ω
+
+Ieq2=12/1507,5=7,960*10^(-3) A
+
+VA=820*7,96*10^(-3)=6,5272 V
+
+Req3=1/(1/1507,5+1/470)=358,29Ω
+
+It=12/358,29=0,03349A
+
+Divisor de corriente.
+
+Ix=(47/(1507,5+47))*0,03349= 7,96mA
+
 
 
 
