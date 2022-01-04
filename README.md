@@ -121,7 +121,7 @@ El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de er
 
 # 5) Video
 
-
+https://youtu.be/FNPo62Q5EE4
 
 
 # 6) Conclusiones.
@@ -137,7 +137,7 @@ El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de er
 
 - M. (2021b, abril 2). Teorema de superposición. MiElectrónicaFácil.com. Recuperado 27 de diciembre de 2021, de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-superposición/#pasos-del-teorema-de-superposición.
 
--Salazar, A. (2012). 3. Análisis de superposición 3.1. 35–62. http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_superposición.pdf
+- Salazar, A. (2012). 3. Análisis de superposición 3.1. 35–62. http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_superposición.pdf
 
 
 
