@@ -97,15 +97,15 @@ Simulacion en Tinkercard:
 
 Imagen 1 simulador
 
-![](lab_3/tinker_volta.jpeg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%201.jpg)
 
 Imagen 2 simulador
 
-![](lab_3/tinker_volta.jpeg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%202.jpg)
 
 Imagen 3 simulador
 
-![](lab_3/tinker_volta.jpeg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%203.jpg)
 
 
 # 4) Respuesta a interrogantes y cálculo de error.
