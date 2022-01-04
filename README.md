@@ -90,14 +90,20 @@ Ix=(47/(1507,5+47))*0,03349= 7,96mA
 
 
 
-![](lab_3/voltaje.jpeg)
-
-
-
-![](lab_3/intensida.jpeg)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/475898bd59676e59ec1f1bd9aa3a773a2fe28b23/info%204.1/inf%204%20calculo.png)
 
 
 Simulacion en Tinkercard:
+
+Imagen 1 simulador
+
+![](lab_3/tinker_volta.jpeg)
+
+Imagen 2 simulador
+
+![](lab_3/tinker_volta.jpeg)
+
+Imagen 3 simulador
 
 ![](lab_3/tinker_volta.jpeg)
 
