@@ -112,25 +112,25 @@ Imagen 3 simulador
 
 Resultados:
 
-![](lab_3/tabla.png)
+![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/9c9ec0d6893ae6cfca7a6437609089c43786a97b/respuesta%20inf%204%20(2).png)
 
 
 Se logro comprabar que los resutlados del  simulado es igual a los valores que encontramos dentro de el analisis por superposición, los cuales fueron evaluados por los conocimientos adquiridos, y por lo tanto obtuvimos lo propuesto en el ejercicio.
 
-El calculo de error, si se lo evalua, este tendra un resultado de cero ya que corresponde a los valores exactos, tanto medidos, simulados y calculados.
+El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de error ya que corresponde a los valores exactos, tanto medidos, simulados y calculados.
 
 # 5) Video
 
-https://youtu.be/BDATG5Zll0w
+
 
 
 # 6) Conclusiones.
 
--
+-Se comprobó el teorema de Superposición, haciendo la comprobación mediante los cálculos y el simulador, con lo que se establece que el teorema funciona con cualquier método que se use.
 
 -Se analizaron los circuitos en serie, con uso de las leyes de Ohm y Kirchhoff, así se lograron resolver los problemas en circuitos eléctricos aplicando el teorema de superposición.
 
--
+-El teorema de la superposición establece que varias fuentes de un circuito es igual a la suma de los circuitos simplificados usando solo una de las fuentes, este teorema no es exclusiva para los circuitos lineales.
 
 
 # 7) Bibliografia
